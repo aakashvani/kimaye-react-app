@@ -1,0 +1,62 @@
+.slider__div{
+    display: flex;
+    background-color: #ECCD65;
+}
+
+.div__img{
+    width: 40%;
+    height: 280px;
+    margin: auto;
+
+}
+.div__img > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.ds__maindiv{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    background-color: #ECCD65;
+}
+.ds__div{
+    margin: auto;
+    width: 80%;
+    height: 250px;
+    margin-top: 40px;
+}
+.kima__head{  
+  font-family: 'Bitterbrush';
+  font-family: 'Shizuru', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+    
+  }
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+
+  }
