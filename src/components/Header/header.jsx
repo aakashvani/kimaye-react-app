@@ -16,7 +16,10 @@ const header = () => {
         {/* left menu-bar  */}
         <div className="left-menu">
           <ul className="menu">
-            <Link to="/ProductsPage">
+            <Link
+              style={{ textDecoration: "none", color: "black" }}
+              to="/ProductsPage"
+            >
               <li>SHOP</li>
             </Link>
             <li>LEARN</li>
@@ -42,13 +45,19 @@ const header = () => {
               <MdOutlineSearch />
             </li>
 
-            <Link to="/SignPage">
+            <Link
+              style={{ textDecoration: "none", color: "black" }}
+              to="/SignPage"
+            >
               <li>
                 <MdAccountCircle />
               </li>
             </Link>
 
-            <Link to="/CartPage">
+            <Link
+              style={{ textDecoration: "none", color: "black" }}
+              to="/CartPage"
+            >
               <li>
                 <MdOutlineShoppingBag />
               </li>

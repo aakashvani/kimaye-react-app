@@ -1,4 +1,34 @@
-.footer-container{
-    background-color:#7d9c5b;
-    padding: 4%;
+.footer-container {
+  background-color: #7d9c5b;
+  width: 100%;
+  height: 260px;
+  padding: 4%;
+}
+.big-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-footer ul li {
+  list-style-type: none;
+  font-weight: 700;
+  font-size: 15.82px;
+}
+.left-footer ul li:hover {
+  color: red;
+  transition-duration: 0.3s;
+}
+
+.right-footer {
+  /* border: 1px solid red; */
+  margin-right: 100px;
+}
+
+.right-footer h5 {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.right-footer div img {
+  margin-right: 10px;
 }
