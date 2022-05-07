@@ -26,7 +26,7 @@ const header = () => {
             </li>
             <Link
               style={{ textDecoration: "none", color: "black" }}
-              to="/ProductsPage"
+              to="/allfruits"
             >
               <li>SHOP</li>
             </Link>

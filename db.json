@@ -45,5 +45,603 @@
       "password": "ketan@123",
       "id": 3
     }
+  ],
+  "Cart": [
+    {
+      "id": 2,
+      "Title": "Kimaye Green Apples (Pack of 3 pc & 6 pc)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover.progressive.jpg?v=1647932788",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/funfacts_219x.png?v=1647932797",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_219x.png?v=1648189086",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_1_219x.png?v=1648189320",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover.progressive.jpg?v=1647932788",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/funfacts_219x.png?v=1647932797",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_219x.png?v=1648189086",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_1_219x.png?v=1648189320"
+      },
+      "Description": "Green apples, as their name suggests, have an even, bright green skin, sometimes greenish-yellow. Fruits with a red blush may have been grown in a cooler climate. The Green apple’s white flesh is hard, crispy, and juicy. The flavor of Green apples acidic, but generally refreshing. Green apples grown in South Africa are sweeter than those fruits grown in other parts of the world.",
+      "price": 270,
+      "Origin": "USA, New Zealand",
+      "PriceRange": "₹140 - ₹270",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Kimaye partners with best producers around the globe to bring to you superior quality Apples. The stringent quality processes at our facilities ensure that you get nothing but the best.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/promise_7e6a713a-8e5a-4083-8e68-0771da1d6345.png?v=1647932260",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Green apples, under their common name of Granny Smith, are an iconic apple variety. The Granny Smith is still a major global apple, and the site near the original Mrs. Smith’s home. was designated a memorial park in 1950.The first Green/Granny Smith apple was found growing in Australia in the 1860s. Mrs. Smith of New South Wales discovered a seedling, likely from a French Crab apple, growing on her property. She grew the seedling, which produced fruit at least by 1868. The family eventually grew the tree in orchards and started marketing the fruit in Sydney. The Granny Smith became an important Australian export fruit, first to Britain in the 1930s, then to other countries.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/funfacts.png?v=1647932117",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Apples are high in vitamin C and dietary fiber, and are also a good source of potassium. The antioxidants and flavonoids in apples help prevent respiratory disease, while the fiber helps with digestion and reduces the risk of developing diabetes. Apples are also low in fat with no cholesterol.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Health_benefits_c328a1c8-d5d3-4a59-9263-2315376dfe83.png?v=1647932240",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 72Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 19g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin C 3.3g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 148mg"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "Title": "Kimaye Grapes (Super Sonaka Seedless) (500g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/9ebb0dfa-3897-42a3-97be-5a0ecb8491f8_219x.png?v=1615016898",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-green-min_219x.progressive.jpg?v=1615016898",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/9ebb0dfa-3897-42a3-97be-5a0ecb8491f8_219x.png?v=1615016898",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-green-min_219x.progressive.jpg?v=1615016898",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898"
+      },
+      "Description": "The Super Sonaka variety of grapes is a clone of the Thompson Seedless variety and comes with long, elongated, cylindrical looking pale green berries. The fruit has a sweet, crisp & crunchy taste. Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability.",
+      "price": 99,
+      "Origin": "Nashik, Maharashtra",
+      "PriceRange": "₹99",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability. Our farmers follow: Global Good Agricultural Practices(G.A.P) and we test each berry for over 274 pesticide residues in accredited third-party labs. All to ensure that only the best fruits make the cut.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/5-KimayePromise-SUPER_SONAKA_SEEDLESS-min.png?v=1614667382",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The popular Spanish New Year tradition The 12 lucky grapes has revelers eating 12 green grapes one after each toll of the bell after midnight on New Year's eve. If all twelve grapes are consumed by the end of the final bell’s toll, it is a sign of good luck in the New Year.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/6-funfact-SUPER_SONAKA_SEEDLESS_1-min.png?v=1614667379",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Green grapes are a convenient snack that contain flavonoids, an antioxidant that is known to maintain a healthy weight.The fruit is packed with potassium and fiber, which can help lower high blood pressure by regulating your cardiovascular system.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/7-health-benefit-sonaka-min.png?v=1614667380",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 69.4Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 18.2g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 0.9 g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Vitamin_K.png?v=1612182341",
+          "Vitamin K 14.6 µg"
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "Title": "Kimaye Jamun (250 gm)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/image_219x.progressive.jpg?v=1620889338",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-promise_219x.progressive.jpg?v=1620889338",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-nutritional_e50b00c6-9239-4a56-b0d2-3a96ac258b0e_219x.progressive.jpg?v=1620889338",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-fun-facts_219x.progressive.jpg?v=1620889338",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/image_219x.progressive.jpg?v=1620889338",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-promise_219x.progressive.jpg?v=1620889338",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-nutritional_e50b00c6-9239-4a56-b0d2-3a96ac258b0e_219x.progressive.jpg?v=1620889338",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-fun-facts_219x.progressive.jpg?v=1620889338"
+      },
+      "Description": "Jamun are oblong shaped berries with a dark red to dark black colored skin with starkly contrasting pinkish- white flesh. The flesh is extremely juicy and has a flavor that combines sweet and tart with a slightly astringent aftertaste. The dark-colored skin leaves a stain on the lips and mouth that can last for several hours.",
+      "price": 189,
+      "Origin": "Maharashtra, India",
+      "PriceRange": "₹140 - ₹270",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Bringing you the Kimaye Kaala Jamun straight from the farms of Maharashtra. Each Jamun is organically ripened and is traceable to it's farmer and source.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-promise-2.png?v=1620736447",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "In Hindu Mythology, Rama lived on Jamun for 14 years after exile from Ayodhya. Lord Krishna's blue skin is described like the Jamun, which is why temples honouring Krishna also house a Jamun tree. It was believed that the earth's epicenter was single jamun mother tree that produced fruits so large that upon, falling, gushed life-giving rivers.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-fun-facts.png?v=1620736419",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Jamun acts as a diuretic, astringent and assists the intestines with digestion and prevents gas.Jamun's antioxidant and anti-inflammatory properties may help treat liver inflammation. Jamun traditional use as an anti-diabetic agent showed positive effects on insulin levels.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-health-benefits.png?v=1620736432",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 60Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 15.6g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin C 14.3g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 19mg"
+        ]
+      }
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "Title": "Kimaye Jamun (250 gm)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/image_219x.progressive.jpg?v=1620889338",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-promise_219x.progressive.jpg?v=1620889338",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-nutritional_e50b00c6-9239-4a56-b0d2-3a96ac258b0e_219x.progressive.jpg?v=1620889338",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-fun-facts_219x.progressive.jpg?v=1620889338",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/image_219x.progressive.jpg?v=1620889338",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-promise_219x.progressive.jpg?v=1620889338",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-nutritional_e50b00c6-9239-4a56-b0d2-3a96ac258b0e_219x.progressive.jpg?v=1620889338",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Jamun-fun-facts_219x.progressive.jpg?v=1620889338"
+      },
+      "Description": "Jamun are oblong shaped berries with a dark red to dark black colored skin with starkly contrasting pinkish- white flesh. The flesh is extremely juicy and has a flavor that combines sweet and tart with a slightly astringent aftertaste. The dark-colored skin leaves a stain on the lips and mouth that can last for several hours.",
+      "price": 189,
+      "Origin": "Maharashtra, India",
+      "PriceRange": "₹140 - ₹270",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Bringing you the Kimaye Kaala Jamun straight from the farms of Maharashtra. Each Jamun is organically ripened and is traceable to it's farmer and source.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-promise-2.png?v=1620736447",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "In Hindu Mythology, Rama lived on Jamun for 14 years after exile from Ayodhya. Lord Krishna's blue skin is described like the Jamun, which is why temples honouring Krishna also house a Jamun tree. It was believed that the earth's epicenter was single jamun mother tree that produced fruits so large that upon, falling, gushed life-giving rivers.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-fun-facts.png?v=1620736419",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Jamun acts as a diuretic, astringent and assists the intestines with digestion and prevents gas.Jamun's antioxidant and anti-inflammatory properties may help treat liver inflammation. Jamun traditional use as an anti-diabetic agent showed positive effects on insulin levels.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Jamun-health-benefits.png?v=1620736432",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 60Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 15.6g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin C 14.3g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 19mg"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "Title": "Kimaye Green Apples (Pack of 3 pc & 6 pc)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover.progressive.jpg?v=1647932788",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/funfacts_219x.png?v=1647932797",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_219x.png?v=1648189086",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_1_219x.png?v=1648189320",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover.progressive.jpg?v=1647932788",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/funfacts_219x.png?v=1647932797",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_219x.png?v=1648189086",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitleddesign_1_219x.png?v=1648189320"
+      },
+      "Description": "Green apples, as their name suggests, have an even, bright green skin, sometimes greenish-yellow. Fruits with a red blush may have been grown in a cooler climate. The Green apple’s white flesh is hard, crispy, and juicy. The flavor of Green apples acidic, but generally refreshing. Green apples grown in South Africa are sweeter than those fruits grown in other parts of the world.",
+      "price": 270,
+      "Origin": "USA, New Zealand",
+      "PriceRange": "₹140 - ₹270",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Kimaye partners with best producers around the globe to bring to you superior quality Apples. The stringent quality processes at our facilities ensure that you get nothing but the best.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/promise_7e6a713a-8e5a-4083-8e68-0771da1d6345.png?v=1647932260",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Green apples, under their common name of Granny Smith, are an iconic apple variety. The Granny Smith is still a major global apple, and the site near the original Mrs. Smith’s home. was designated a memorial park in 1950.The first Green/Granny Smith apple was found growing in Australia in the 1860s. Mrs. Smith of New South Wales discovered a seedling, likely from a French Crab apple, growing on her property. She grew the seedling, which produced fruit at least by 1868. The family eventually grew the tree in orchards and started marketing the fruit in Sydney. The Granny Smith became an important Australian export fruit, first to Britain in the 1930s, then to other countries.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/funfacts.png?v=1647932117",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Apples are high in vitamin C and dietary fiber, and are also a good source of potassium. The antioxidants and flavonoids in apples help prevent respiratory disease, while the fiber helps with digestion and reduces the risk of developing diabetes. Apples are also low in fat with no cholesterol.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Health_benefits_c328a1c8-d5d3-4a59-9263-2315376dfe83.png?v=1647932240",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 72Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 19g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin C 3.3g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 148mg"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "Title": "Kimaye Alphonso Mangoes",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitled_design_11_19d66f42-ebc2-41ef-a8da-ab6cd13114fe_219x.png?v=1646905852",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Alphonso_Mango-removebg-preview_219x.png?v=1645448717",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/mango-NUTRITIONAL-INFORMATION_5fc69652-0de7-4a96-9ed0-7fb5033d0a97_219x.progressive.jpg?v=1645445684",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-mango-car-funfact_84b913af-c2d9-4698-b70a-ec8fea202678_219x.progressive.jpg?v=1645445684",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitled_design_11_19d66f42-ebc2-41ef-a8da-ab6cd13114fe_219x.png?v=1646905852",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Alphonso_Mango-removebg-preview_219x.png?v=1645448717",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/mango-NUTRITIONAL-INFORMATION_5fc69652-0de7-4a96-9ed0-7fb5033d0a97_219x.progressive.jpg?v=1645445684",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-mango-car-funfact_84b913af-c2d9-4698-b70a-ec8fea202678_219x.progressive.jpg?v=1645445684"
+      },
+      "Description": "Alphonso, the beloved mango variety known for it's matchless aroma and flavour, is often given the epithet. The King of Mangoes. Also known as Hapus locally, the variety is a perfect serve for the table.Each Kimaye Alphonso mango is GI tagged, ripened carbide-free, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "price": 276,
+      "Origin": "Ratnagiri, India",
+      "PriceRange": "₹276 - ₹1499",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Bringing you the GI tagged Alphonso mangoes straight from the farms of Maharashtra. Each mango is organically ripened, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Mango_promise.png?v=1615008901",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Alphonso mango got it's name from a Portuguese general & military expert Alphonse de Albuquerque. In 2006 George. W. Bush tried an Alphonso Mango during his first visit to Inida. After having it, he said to the then prime minister Dr. Manmohan Singh that it was “a hell of a fruit’, the best he ever tasted.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Fun_Fact_b648a9c4-3b64-4c49-beae-734ba1c941b7.png?v=1615008900",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Mangoes are low in calories but full of nutrients. Mango consumption helps in improving vision and minimize the risk of cataract. Mangoes also help in keeping the skin healthy and protects against breast, colon, leukemia and prostate cancer.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Mango.png?v=1615008900",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 107Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 28.1g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin A 1262 IU"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 23.1mg"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "Title": "Kimaye Blueberries (125g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit_df5c6b54-3d01-40f3-86ac-8b3b5508c2d9-min_219x.progressive.jpg?v=1614325206",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_8938462a-dd80-4b97-b1d5-009be17b6ae0-min_219x.progressive.jpg?v=1614325206",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_52252845-0388-405a-b122-39fb4e4b617e-min_219x.progressive.jpg?v=1614325206",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_4fef1fe4-8a60-4abc-ae2f-9ac5ce82d2e7-min_219x.progressive.jpg?v=1614325208",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit_df5c6b54-3d01-40f3-86ac-8b3b5508c2d9-min_219x.progressive.jpg?v=1614325206",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_8938462a-dd80-4b97-b1d5-009be17b6ae0-min_219x.progressive.jpg?v=1614325206",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_52252845-0388-405a-b122-39fb4e4b617e-min_219x.progressive.jpg?v=1614325206",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_4fef1fe4-8a60-4abc-ae2f-9ac5ce82d2e7-min_219x.progressive.jpg?v=1614325208"
+      },
+      "Description": "Enjoy the perfect combination of sweet and tart flavor by snacking on the antioxidant rich superfood- Blueberries.",
+      "price": 419,
+      "Origin": "USA, Chile, Europe",
+      "PriceRange": "₹276 - ₹419",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Our blueberries deliver the ultimate in consumption experience. These superfruits are packed at the field and air-freighted to get you the freshest and finest blueberries from across the world.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Kimaye-Promise_d56e9823-cad8-4d8c-8dda-85580dcd52e9-min.png?v=1614750132",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The blueberry is one of the only foods that is truly naturally blue in colour. This colour is due to the presence of the pigment anthocyanin- which is also responsible for providing the blueberry the amazing health benefits. Native Americans used to call them star berries because their five point blossoms make the shape of a star.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Fun-facts_b3f98b1e-d80c-41ad-b078-d7f69181444a-min.png?v=1614750131",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "A super source of antioxidants , blueberries not only prevent carcinogenesis but also reduces the risks of cancer recurrence. They are also known for contributing to eye health and prevent retinal diseases. Consumption of blueberries improves the health of liver and also protects against diabetes, obesity and coronary heart diseases.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Health-Benefits_056e9d7d-1ce0-4f45-945f-aff2f6c5ec88-min.png?v=1614750131",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 71Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/protein-icon.png?v=1599299842",
+          "Protein 1g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 18g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 3g"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "Title": "Kimaye Badami Mangoes (Pack of 3pcs)",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover-Mango-badami_219x.progressive.jpg?v=1620473077",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-promisebadami_219x.progressive.jpg?v=1620473077",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-Banganpallimango-car-funfact_219x.progressive.jpg?v=1620473077",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Banganpallimango-NUTRITIONAL-INFORMATION_fa06da77-1d6e-4fdb-922f-81749fa6329a_219x.progressive.jpg?v=1620473077"
+      },
+      "Description": "Tamil Nadu's pride, Badami is an exquisite mango with a nearly fibreless texture and delectable taste. The fruit has a pale yellow, thin skin through which it is easy to detect the softness of the flesh.Each Kimaye Badami mango goes through carbide-free ripening process, is traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "price": 169,
+      "Origin": "Tamil Nadu,India",
+      "PriceRange": "₹169 - ₹189",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Bringing you the much loved Badami mangoes straight from the farms of Karnataka & Tamil Nadu. Each mango is organically ripened, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Banganapalli_2.png?v=1615617199",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Mangoes originated in India nearly 5000 years ago. They fill up hindu scriptures and folklores. In one of the oldest myths, Mango is said to be the daughter of Sun God Surya. It is said that when a mango fruit fell from a tree on the ground, it incarnated as a beautiful princess who was called Surya Bai.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/new-badami-fun-fact.png?v=1620128927",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Mangoes are low in calories but full of nutrients. Mango consumption helps in improving vision and minimize the risk of cataract. Mangoes also help in keeping the skin healthy and protects against breast, colon, leukemia and prostate cancer.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Banganapalli_1.png?v=1615617199",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 107Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 28.1g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin A 12.62 IU"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Folate_Icon.png?v=1615012400",
+          "Folate 23.1 mg"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "Title": "Kimaye Avocado Imported (1pc ≈ 250g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit-min_219x.progressive.jpg?v=1614324596",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_73ae826c-7133-4163-84c1-e3f909a2bdc3-min_219x.progressive.jpg?v=1614324596",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_da48f27b-80d5-445e-b381-79e5fbc48865-min_219x.progressive.jpg?v=1614324597",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Avocado-Ripening-stages_219x.progressive.jpg?v=1622036923",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit-min_219x.progressive.jpg?v=1614324596",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_73ae826c-7133-4163-84c1-e3f909a2bdc3-min_219x.progressive.jpg?v=1614324596",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_da48f27b-80d5-445e-b381-79e5fbc48865-min_219x.progressive.jpg?v=1614324597",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Avocado-Ripening-stages_219x.progressive.jpg?v=1622036923"
+      },
+      "Description": "Avocado has a rich, buttery and creamy flavor. A great source of healthy fats, Hass Avocados are known to be the most popular variety, mostly grown in coastal valleys of Peru. Avocado can be consumed with salads or can be used to make delicious spreads and dips.",
+      "price": 315,
+      "Origin": "Peru",
+      "PriceRange": "₹315 - ₹350",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Kimaye Parterns with the best producers around the globe to bring to you the superior quality avocados. The stringent quality processes at our facilities ensure that you get nothing but the best!",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Kimaye-Promise_bb415589-61b2-4756-a3d7-f8684542f9bf-min.png?v=1614752041",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Avocados belong to the cinnamon family. Their tree secretes an enzyme that prevents the fruit from ever ripening on the tree, thus allowing the farmer to use the tree as a storage house for up to 7 months after full maturity of the fruit.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Fun-facts_daabaf6b-7c1f-4ec2-9601-6b3987c15d94-min.png?v=1614752038",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Avocados are rich in fat (healthy saturated fat) and have high potassium content which helps in reducing the risk of coronary heart diseases. It helps in maintaining muscle function by regulating blood pressure. Avocado is known for their anti-cancer properties. Consumption of avocados strengthens the immune system.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/avocado-health-benefits.png?v=1621858748",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 501Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/fat-icon.png?v=1599299842",
+          "Fat 46g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/protein-icon.png?v=1599299842",
+          "Protein 6g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/potassium-icon.png?v=1599307078",
+          "Potassium 1521mg"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "Title": "Kimaye Pear Green (Pack of 2 & 4)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/40048444_2-usa-pears-green_preview_rev_1-min_219x.png?v=1614326373",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/51Sy0m2D_tL._SL1000__preview_rev_1-min_219x.png?v=1614326373",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_ac287e17-2f8f-4a42-919b-a551159f4619-min_219x.progressive.jpg?v=1614326370",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_6d53a63b-6d9a-4052-824a-3417990f6866-min_219x.progressive.jpg?v=1614326370",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/40048444_2-usa-pears-green_preview_rev_1-min_219x.png?v=1614326373",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/51Sy0m2D_tL._SL1000__preview_rev_1-min_219x.png?v=1614326373",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_ac287e17-2f8f-4a42-919b-a551159f4619-min_219x.progressive.jpg?v=1614326370",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_6d53a63b-6d9a-4052-824a-3417990f6866-min_219x.progressive.jpg?v=1614326370"
+      },
+      "Description": "Pears are a mildly sweet fruit having a white, grainy, crisp and crunchy flesh.",
+      "price": 110,
+      "Origin": "South Africa",
+      "PriceRange": "₹110 - ₹209",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Kimaye partners with best producers around the globe to bring to you the superior quality pears. The stringent quality processes at our facilities ensure that you get nothing but the best!",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/promise.png?v=1599579484",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The Chinese call the pear Li and consider it a symbol of immortality. Buddha shaped pear at $9.00 each. These pears look exactly like a Buddha statue, even down to the facial details.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/fun_49be1416-08dc-4734-b1a1-723df5d66d1a-min.png?v=1614686985",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Pears are a powerhouse of digestive health and prevent constipation. Pears hold the reputation of having low allergenic potential and also help in treatment of allergic diseases like asthma. Pears are known to assist in weight control through their low energy density.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/health.png?v=1599579483",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 108Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 25g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 5g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/potassium-icon.png?v=1599307078",
+          "Potassium 204mg"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "Title": "Variety: Sharad Seedless (500g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/b2fdf9f3-93a9-4ae2-bd80-bfaf63af08d9_219x.png?v=1615017122",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-JumboSeedlesspromise_56ba6fd1-b63e-4c19-abc6-883a8cdeb0dd-min_219x.progressive.jpg?v=1615017122",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/JumboNUTRITIONALINFORMATION_9092ac81-8831-4a70-a6fb-63d9233013d7-min_219x.progressive.jpg?v=1615017122",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-SharadSeedlessfunfact-min_219x.progressive.jpg?v=1615017122",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/b2fdf9f3-93a9-4ae2-bd80-bfaf63af08d9_219x.png?v=1615017122",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-JumboSeedlesspromise_56ba6fd1-b63e-4c19-abc6-883a8cdeb0dd-min_219x.progressive.jpg?v=1615017122",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/JumboNUTRITIONALINFORMATION_9092ac81-8831-4a70-a6fb-63d9233013d7-min_219x.progressive.jpg?v=1615017122",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-SharadSeedlessfunfact-min_219x.progressive.jpg?v=1615017122"
+      },
+      "Description": "Sharad Seedless Grapes are shaped ellipsoid and are known for their bold color & exceptionally sweet flavour. This variety can be used to make juices & garnish salad. Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability.",
+      "price": 99,
+      "Origin": "Nashik, Maharashtra",
+      "PriceRange": "₹99",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Kimaye partners with best producers around the globe to bring to you the superior quality oranges. The stringent quality processes at our facilities ensure that you get nothing but the best!",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/promise_dd7bf35f-7ed8-47ec-82f2-7893cbd4a2eb.png?v=1599593833",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Oranges have been grown since ancient times and originated in Southeast Asia. Before the English speaking world was exposed to the fruit, the colour orange was referred to as geoluhread which is an old english word for red-yellow.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/fun_ca568b36-a744-442a-a40b-b31e9e188a6f-min.png?v=1614688075",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Oranges are rich in dietary fibre and pectin which reduces blood cholestrol level and fights obesity. Orange consumption leads to a wholesome health and young, fresh and glowing skin. Regular intake of oranges reduce chances of formation of kidney stones.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/health_ec174997-cfe7-4090-9d2c-2b2df16a1ac0.png?v=1599593833",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 104Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 25g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 4g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/potassium-icon.png?v=1599307078",
+          "Potassium 325mg"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "Title": "Kimaye Grapes (Flame Seedless (500g & 2kg)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/069bdaa3-eca4-4f4c-8f02-970a626f7be3_219x.png?v=1616393545",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-FlameSeedless-min_219x.progressive.jpg?v=1616393545",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-red-min_219x.progressive.jpg?v=1616393545",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-FlameSeedless-min_219x.progressive.jpg?v=1616393545",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/069bdaa3-eca4-4f4c-8f02-970a626f7be3_219x.png?v=1616393545",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-FlameSeedless-min_219x.progressive.jpg?v=1616393545",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-red-min_219x.progressive.jpg?v=1616393545",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-FlameSeedless-min_219x.progressive.jpg?v=1616393545"
+      },
+      "Description": "Flame is seedless red grape with medium sized, round berries which have an attractive red colouration, often with some paleness around the stem attachment. The berries are sweet, with a slight hint of sharpness giving a good balance of flavour. Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability",
+      "price": 109,
+      "Origin": "Nashik, Maharashtra",
+      "PriceRange": "₹109 - ₹431",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability. Our farmers follow: Global Good Agricultural Practices(G.A.P) and we test each berry for over 274 pesticide residues in accredited third-party labs. All to ensure that only the best fruits make the cut.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/flames_1ebaa1ff-f2a3-4a6f-98f1-799ff7130907-min.png?v=1614668560",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The fox that couldn’t reach the bunch of grapes is featured in a famed fable by Aesop, which illustrates the concept of cognitive dissonance. The fox disdains the grapes, despite trying his very hardest to reach them.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/FLAMES-min.png?v=1614668558",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Red grapes contain higher numbers of antioxidants due to the anthocyanins that also gives them their color. Resveratrol, a key compound in Red Grapes has been shown to increase insulin sensitivity, which may improve body’s ability to use glucose and hence lower blood sugar levels.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/flames_d5d17eae-5303-4ee9-9479-4c0498dfe90b-min.png?v=1614668559",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 69.4Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 18.9g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 0.9 g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Vitamin_K.png?v=1612182341",
+          "Vitamin K 14.6 µg"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "Title": "Kimaye Grapes (Super Sonaka Seedless) (500g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/9ebb0dfa-3897-42a3-97be-5a0ecb8491f8_219x.png?v=1615016898",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-green-min_219x.progressive.jpg?v=1615016898",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/9ebb0dfa-3897-42a3-97be-5a0ecb8491f8_219x.png?v=1615016898",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-4-carousel-promise-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2-carousel-nutrition-green-min_219x.progressive.jpg?v=1615016898",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-3-carousel-funfact-SuperSonakaSeedless-min_219x.progressive.jpg?v=1615016898"
+      },
+      "Description": "The Super Sonaka variety of grapes is a clone of the Thompson Seedless variety and comes with long, elongated, cylindrical looking pale green berries. The fruit has a sweet, crisp & crunchy taste. Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability.",
+      "price": 99,
+      "Origin": "Nashik, Maharashtra",
+      "PriceRange": "₹99",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Coming from the local farms of Nashik (GI Tagged), each grape is safe to it's core and comes with end-to-end traceability. Our farmers follow: Global Good Agricultural Practices(G.A.P) and we test each berry for over 274 pesticide residues in accredited third-party labs. All to ensure that only the best fruits make the cut.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/5-KimayePromise-SUPER_SONAKA_SEEDLESS-min.png?v=1614667382",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The popular Spanish New Year tradition The 12 lucky grapes has revelers eating 12 green grapes one after each toll of the bell after midnight on New Year's eve. If all twelve grapes are consumed by the end of the final bell’s toll, it is a sign of good luck in the New Year.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/6-funfact-SUPER_SONAKA_SEEDLESS_1-min.png?v=1614667379",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Green grapes are a convenient snack that contain flavonoids, an antioxidant that is known to maintain a healthy weight.The fruit is packed with potassium and fiber, which can help lower high blood pressure by regulating your cardiovascular system.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/7-health-benefit-sonaka-min.png?v=1614667380",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 69.4Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 18.2g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 0.9 g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Vitamin_K.png?v=1612182341",
+          "Vitamin K 14.6 µg"
+        ]
+      }
+    }
   ]
 }
