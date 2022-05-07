@@ -1,0 +1,138 @@
+.card__container{
+    display: grid;
+    grid-template-columns: repeat(2, 400px);
+   grid-template-rows: repeat(2, 500px);
+   justify-content: space-evenly;
+  gap: 20px 5px;
+    width: 80%;
+    height: 1200px;
+    margin: auto;
+    margin-top: 70px;
+    cursor: pointer;
+
+}
+@font-face {font-family: "Bitterbrush DEMO"; src: url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.eot"); src: url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.woff") format("woff"), url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/4544bce967da988608660e69692575ab.svg#Bitterbrush DEMO") format("svg"); }
+
+.card__div{
+  
+    border-radius:30px ;
+     overflow: hidden;
+ 
+}
+.overflow >img{
+    width: 100%;
+    height: 100%;
+  border-radius:30px ;
+  display: block;
+   transition: transform 1s;
+   cursor: pointer;
+  
+
+}
+.overflow>img:hover{
+    
+  transform: scale(1.1); 
+}
+.card__heading{
+
+  font-family: 'Bitterbrush';
+  
+font-family: 'Shizuru', cursive;
+}
+.card-title{
+    margin-top: 20px;
+   text-align: center;
+    font-size: 25px;
+  font-family: 'Bitterbrush';
+font-family: 'Shizuru', cursive;
+}
+.card_head_des{ 
+   font-family: 'Bitterbrush';
+}
+.card__text > p{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 14px; 
+  font-family: 'Bitterbrush';
+  color: black;
+
+}
+.card__text >a{
+margin-left: 30%;
+padding: 10px 30px;
+border-radius: 20px;
+border: none;
+background-color: #CD171F;
+color: white;
+cursor: pointer;
+}
+.card_head{
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.kima{
+  width: 100%;
+  height: 800px;
+  border: 1px solid black;
+   background-color: rgb(111,146,74);
+   display: flex;
+ 
+  
+}
+.lh{
+    margin: auto;
+  width: 50%;
+  height: 90%;
+ 
+}
+.rh{
+  margin: auto;
+width: 50%;
+height: 90%;
+
+}
+.lh > img{
+  width: 55%;
+  margin-left: 30%;
+}
+.rh>div{
+  width: 80%;
+
+  height: 100%;
+}
+
+.rh h2{
+  
+  font-family: 'Bitterbrush';
+  font-family: 'Shizuru', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 60px;
+  color: white;
+}
+.rh p{
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.small__div{
+  width: 50%;
+  background-color: white;
+  padding: 13px;
+}
+.spn{
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Bitterbrush';
+  font-family: 'Shizuru', cursive;
+}
+.marks{
+  color: red;
+}
+.marks1{
+  color: red;
+  background-color: rgb(111,146,74);
+}

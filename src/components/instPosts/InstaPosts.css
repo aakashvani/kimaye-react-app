@@ -1,0 +1,45 @@
+.last h1{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Bitterbrush';
+    font-family: 'Shizuru', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.last p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.last__div{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+}
+.insta__post{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+   
+}
+.insta__post>img{
+    border-radius: 20px;
+    transition: 1s;
+    width: 100%;
+    height: 100%;
+}
+.insta__post>img:hover{
+      color: black;
+    opacity: 0.5;
+  cursor: pointer;
+
+}
