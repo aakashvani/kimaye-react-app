@@ -18,13 +18,10 @@ import { Link, useNavigate } from "react-router-dom";
 const LoginPage = () => {
   const [email, setemail] = useState("");
   const [password, setpassword] = useState("");
-  //   const history = useHistory();
   const navigate = useNavigate();
 
   useEffect(() => {
     if (localStorage.getItem("user-info")) {
-      //   history.push('/add');
-      // login();
       navigate("/LoginPage");
     }
   }, [navigate]);

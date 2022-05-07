@@ -20,6 +20,13 @@
       "email": "akash@123.gmail.com",
       "password": "akash@123",
       "id": 3
+    },
+    {
+      "firstname": "ketan",
+      "lastname": "ketan",
+      "email": "ketan@gmail.com",
+      "password": "ketan@123",
+      "id": 4
     }
   ],
   "logindata": [
@@ -32,6 +39,11 @@
       "email": "akash@123.gmail.com",
       "password": "akash@123",
       "id": 2
+    },
+    {
+      "email": "ketan@gmail.com",
+      "password": "ketan@123",
+      "id": 3
     }
   ]
 }
