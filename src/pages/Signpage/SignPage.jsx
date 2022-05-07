@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import {
   Flex,
   Box,
@@ -51,7 +51,7 @@ const SignPage = () => {
       );
       //?localstore
       localStorage.setItem("user-info", JSON.stringify(result));
-      navigate("/loginform");
+      navigate("/LoginPage");
       // return <Navigate to="/loginform" />
       // setTimeout(function () {
       //  navigate('/loginform');
@@ -158,7 +158,7 @@ const SignPage = () => {
               </Stack>
               <Stack pt={6}>
                 <Text align={"center"}>
-                  Already a user? <Link to="/loginform">Login</Link>
+                  Already a user? <Link to="/LoginPage">Login</Link>
                 </Text>
               </Stack>
             </Stack>
@@ -167,6 +167,6 @@ const SignPage = () => {
       </Flex>
     </>
   );
-}
+};
 
-export default SignPage
+export default SignPage;
