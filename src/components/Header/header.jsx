@@ -1,12 +1,28 @@
 import React from "react";
-import "./header.css"
+import "./header.css";
+import {
+  MdLocationOn,
+  MdOutlineSearch,
+  MdAccountCircle,
+  MdOutlineShoppingBag,
+} from "react-icons/md";
+
+import { Link } from "react-router-dom";
 
 const header = () => {
   return (
     <>
       <div className="navbar-container">
         {/* left menu-bar  */}
-        <div>left menu-bar</div>
+        <div className="left-menu">
+          <ul className="menu">
+            <Link to="/ProductsPage">
+              <li>SHOP</li>
+            </Link>
+            <li>LEARN</li>
+            <li>GROW</li>
+          </ul>
+        </div>
 
         {/* logo  */}
         <div className="logo">
@@ -17,7 +33,28 @@ const header = () => {
         </div>
 
         {/* right menu-bar */}
-        <div>right menu-bar</div>
+        <div className="right-menu">
+          <ul className="menu">
+            <li>
+              <MdLocationOn />
+            </li>
+            <li>
+              <MdOutlineSearch />
+            </li>
+
+            <Link to="/SignPage">
+              <li>
+                <MdAccountCircle />
+              </li>
+            </Link>
+
+            <Link to="/CartPage">
+              <li>
+                <MdOutlineShoppingBag />
+              </li>
+            </Link>
+          </ul>
+        </div>
       </div>
     </>
   );
