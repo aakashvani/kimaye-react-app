@@ -196,6 +196,52 @@
           "Calcium 19mg"
         ]
       }
+    },
+    {
+      "id": 4,
+      "Title": "Kimaye Blueberries (125g)",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit_df5c6b54-3d01-40f3-86ac-8b3b5508c2d9-min_219x.progressive.jpg?v=1614325206",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_8938462a-dd80-4b97-b1d5-009be17b6ae0-min_219x.progressive.jpg?v=1614325206",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_52252845-0388-405a-b122-39fb4e4b617e-min_219x.progressive.jpg?v=1614325206",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_4fef1fe4-8a60-4abc-ae2f-9ac5ce82d2e7-min_219x.progressive.jpg?v=1614325208",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit_df5c6b54-3d01-40f3-86ac-8b3b5508c2d9-min_219x.progressive.jpg?v=1614325206",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/4_8938462a-dd80-4b97-b1d5-009be17b6ae0-min_219x.progressive.jpg?v=1614325206",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/3_52252845-0388-405a-b122-39fb4e4b617e-min_219x.progressive.jpg?v=1614325206",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2_4fef1fe4-8a60-4abc-ae2f-9ac5ce82d2e7-min_219x.progressive.jpg?v=1614325208"
+      },
+      "Description": "Enjoy the perfect combination of sweet and tart flavor by snacking on the antioxidant rich superfood- Blueberries.",
+      "price": 419,
+      "Origin": "USA, Chile, Europe",
+      "PriceRange": "₹276 - ₹419",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Our blueberries deliver the ultimate in consumption experience. These superfruits are packed at the field and air-freighted to get you the freshest and finest blueberries from across the world.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Kimaye-Promise_d56e9823-cad8-4d8c-8dda-85580dcd52e9-min.png?v=1614750132",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "The blueberry is one of the only foods that is truly naturally blue in colour. This colour is due to the presence of the pigment anthocyanin- which is also responsible for providing the blueberry the amazing health benefits. Native Americans used to call them star berries because their five point blossoms make the shape of a star.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Fun-facts_b3f98b1e-d80c-41ad-b078-d7f69181444a-min.png?v=1614750131",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "A super source of antioxidants , blueberries not only prevent carcinogenesis but also reduces the risks of cancer recurrence. They are also known for contributing to eye health and prevent retinal diseases. Consumption of blueberries improves the health of liver and also protects against diabetes, obesity and coronary heart diseases.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Health-Benefits_056e9d7d-1ce0-4f45-945f-aff2f6c5ec88-min.png?v=1614750131",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 71Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/protein-icon.png?v=1599299842",
+          "Protein 1g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 18g"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/dietary-fibre-icon.png?v=1599307079",
+          "Dietary Fibre 3g"
+        ]
+      }
     }
   ],
   "product": [
