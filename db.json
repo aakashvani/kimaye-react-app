@@ -34,6 +34,27 @@
       "email": "akash@123.gmail.com",
       "password": "akash@123",
       "id": 5
+    },
+    {
+      "firstname": "aakash",
+      "lastname": "kumar",
+      "email": "aakash_fw14_199@masai.school",
+      "password": "0000",
+      "id": 6
+    },
+    {
+      "firstname": "aakash ",
+      "lastname": "kumar",
+      "email": "aakash.krm@gmail.com",
+      "password": "0000",
+      "id": 7
+    },
+    {
+      "firstname": "ram",
+      "lastname": "kumar",
+      "email": "ram@gmail.com",
+      "password": "0000",
+      "id": 8
     }
   ],
   "logindata": [
@@ -56,6 +77,21 @@
       "email": "akash@123gmail.com",
       "password": "akash@123",
       "id": 4
+    },
+    {
+      "email": "aakash_fw14_199@masai.school",
+      "password": "0000",
+      "id": 5
+    },
+    {
+      "email": "aakash.krm@gmail.com",
+      "password": "0000",
+      "id": 6
+    },
+    {
+      "email": "ram@gmail.com",
+      "password": "0000",
+      "id": 7
     }
   ],
   "Cart": [
@@ -194,6 +230,52 @@
         "D": [
           "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
           "Calcium 19mg"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "Title": "Kimaye Alphonso Mangoes",
+      "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitled_design_11_19d66f42-ebc2-41ef-a8da-ab6cd13114fe_219x.png?v=1646905852",
+      "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Alphonso_Mango-removebg-preview_219x.png?v=1645448717",
+      "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/mango-NUTRITIONAL-INFORMATION_5fc69652-0de7-4a96-9ed0-7fb5033d0a97_219x.progressive.jpg?v=1645445684",
+      "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-mango-car-funfact_84b913af-c2d9-4698-b70a-ec8fea202678_219x.progressive.jpg?v=1645445684",
+      "Image": {
+        "img1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Untitled_design_11_19d66f42-ebc2-41ef-a8da-ab6cd13114fe_219x.png?v=1646905852",
+        "img2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Alphonso_Mango-removebg-preview_219x.png?v=1645448717",
+        "img3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/mango-NUTRITIONAL-INFORMATION_5fc69652-0de7-4a96-9ed0-7fb5033d0a97_219x.progressive.jpg?v=1645445684",
+        "img4": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Optimized-mango-car-funfact_84b913af-c2d9-4698-b70a-ec8fea202678_219x.progressive.jpg?v=1645445684"
+      },
+      "Description": "Alphonso, the beloved mango variety known for it's matchless aroma and flavour, is often given the epithet. The King of Mangoes. Also known as Hapus locally, the variety is a perfect serve for the table.Each Kimaye Alphonso mango is GI tagged, ripened carbide-free, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "price": 276,
+      "Origin": "Ratnagiri, India",
+      "PriceRange": "₹276 - ₹1499",
+      "innerTitle1": "KIMAYE PROMISE",
+      "innerDes1": "Bringing you the GI tagged Alphonso mangoes straight from the farms of Maharashtra. Each mango is organically ripened, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "innerimg1": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Mango_promise.png?v=1615008901",
+      "innerTitle2": "FRUIT FUN FACTS",
+      "innerDes2": "Alphonso mango got it's name from a Portuguese general & military expert Alphonse de Albuquerque. In 2006 George. W. Bush tried an Alphonso Mango during his first visit to Inida. After having it, he said to the then prime minister Dr. Manmohan Singh that it was “a hell of a fruit’, the best he ever tasted.",
+      "innerimg2": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Fun_Fact_b648a9c4-3b64-4c49-beae-734ba1c941b7.png?v=1615008900",
+      "innerTitle3": "HEALTH BENEFITS",
+      "innerDes3": "Mangoes are low in calories but full of nutrients. Mango consumption helps in improving vision and minimize the risk of cataract. Mangoes also help in keeping the skin healthy and protects against breast, colon, leukemia and prostate cancer.",
+      "innerimg3": "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Mango.png?v=1615008900",
+      "nutriTitle": "NUTRITIONAL INFORMATION",
+      "nutriInfo": {
+        "A": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calories-icon.png?v=1599299841",
+          "Total Calories 107Kcal"
+        ],
+        "B": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/carbs-icon.png?v=1599299842",
+          "Carbohydrate 28.1g"
+        ],
+        "C": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/vitamin-c-icon.png?v=1614345469",
+          "Vitamin A 1262 IU"
+        ],
+        "D": [
+          "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/calcium.png?v=1620736027",
+          "Calcium 23.1mg"
         ]
       }
     }

@@ -7,12 +7,11 @@ import DSlider from "../../components/DSlider/DSlider"
 
 const LandingPage = () => {
   return <>
-    <React.Fragment>
+    <React.Fragment >
       <Slider />
       <Cards />
       <DSlider/>
       <InstaPosts />
-      
     </React.Fragment>
   </>;
 };

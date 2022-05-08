@@ -64,7 +64,7 @@ export const AllFruits = () => {
                             > <BsBagCheckFill stroke='white' fontSize="1.5em" style={{
                                 position: 'absolute',
                                 top: '13px',
-                                left: "70px",
+                                left: "40px",
                             }} /> CHOOSE YOUR PACK</button>
 
                         </div>

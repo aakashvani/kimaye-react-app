@@ -37,10 +37,12 @@ const header = () => {
 
         {/* logo  */}
         <div className="logo">
-          <img
+          <Link to="/">
+          <img style={{width:"80%", height:"40px" }}
             src="https://cdn.shopify.com/s/files/1/0449/5225/6667/files/website-logo_400x.png?v=1596288204"
             alt="kimaye logo"
           />
+          </Link>
         </div>
 
         {/* right menu-bar */}

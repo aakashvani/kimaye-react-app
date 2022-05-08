@@ -17,7 +17,7 @@ const footer = () => {
 
           <div className="right-footer">
             <h5>Follow us on</h5>
-            <div>
+            {/* <div className="social">
               <img
                 src="https://cdn.shopify.com/s/files/1/0449/5225/6667/files/fb-icon.png?v=1599571756"
                 alt="facebook.png"
@@ -30,7 +30,7 @@ const footer = () => {
                 src="https://cdn.shopify.com/s/files/1/0449/5225/6667/files/twitter-icon.png?v=1599571756"
                 alt="twitter.png"
               />
-            </div>
+            </div> */}
           </div>
         </div>
 
