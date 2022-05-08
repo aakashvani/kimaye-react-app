@@ -27,6 +27,13 @@
       "email": "ketan@gmail.com",
       "password": "ketan@123",
       "id": 4
+    },
+    {
+      "firstname": "akash",
+      "lastname": "akash",
+      "email": "akash@123.gmail.com",
+      "password": "akash@123",
+      "id": 5
     }
   ],
   "logindata": [
@@ -44,6 +51,11 @@
       "email": "ketan@gmail.com",
       "password": "ketan@123",
       "id": 3
+    },
+    {
+      "email": "akash@123gmail.com",
+      "password": "akash@123",
+      "id": 4
     }
   ],
   "Cart": [
