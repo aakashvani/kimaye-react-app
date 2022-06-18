@@ -35,7 +35,7 @@ export const ProductDetails = () => {
     return <>
         <div className="box1">
             <div className="image1">
-                <img src={prod.img1} alt="image 1" />
+                <img src={prod.img1} alt="image1" />
             </div>
             <div className="title">
                 <h1 className="title1">{prod.Title}</h1>
